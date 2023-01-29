@@ -1,6 +1,8 @@
 # EHM-League-Structures
 A collection of league structures and schedule templates for Eastside Hockey Manager.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/archibalduk/EHM-League-Structures) ![GitHub](https://img.shields.io/github/license/archibalduk/EHM-League-Structures)
+
 ## Usage
 
 Simply download your chosen structure or schedule from the relevant folder above.
@@ -31,6 +33,7 @@ NHL 2022-23 - 8_8_8_7 - 82 GP
 ```
 30 Teams - 30 - 82 GP
 ```
+
 ## Installation
 
 Each folder contains one or both of the following:
@@ -46,17 +49,17 @@ The spreadsheets use the following file naming convention:
 
 ```
   regular_season_[type] <- Regular season schedule
-  conference_playoff_[type] <- Conference-level playoff rounds
-  championship_playoff_[type] <- Championship playoff rounds (i.e. after the conference-level playoff rounds)
+  conference_playoff_[type] <- Conference/division-level playoff rounds
+  championship_playoff_[type] <- Championship playoff rounds (i.e. after the conference/division-level playoff rounds)
 ```
 [type] will either be "template" to denote a schedule template or "dates" to denote schedule dates. A suffix of "_[alt]" denotes that the schedule file relates to an Olympic season (i.e. alternative schedule for an Olympic season).
+
 ## Authors
 
 This repository is a compilation of structures and schedules created by:
 
 - [@archibalduk](https://www.github.com/archibalduk)
 - [@xECK29x](https://www.ehmtheblueline.com/forums/memberlist.php?mode=viewprofile&u=10633)
-
 
 ## License
 
