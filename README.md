@@ -1,7 +1,9 @@
-# EHM-League-Structures
-A collection of league structures and schedule templates for Eastside Hockey Manager.
+# EHM League Structures
+![GitHub last commit](https://img.shields.io/github/last-commit/archibalduk/EHM-League-Structures?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/archibalduk/EHM-League-Structures?style=flat-square) ![GitHub](https://img.shields.io/github/license/archibalduk/EHM-League-Structures?style=flat-square)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/archibalduk/EHM-League-Structures) ![GitHub](https://img.shields.io/github/license/archibalduk/EHM-League-Structures)
+## About
+
+A collection of league structures and schedule templates for Eastside Hockey Manager.
 
 ## Usage
 
