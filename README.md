@@ -1,15 +1,15 @@
-# EHM League Structures
+# Eastside Hockey Manager (EHM) League Structures & Schedules
 ![GitHub last commit](https://img.shields.io/github/last-commit/archibalduk/EHM-League-Structures?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/archibalduk/EHM-League-Structures?style=flat-square) ![GitHub](https://img.shields.io/github/license/archibalduk/EHM-League-Structures?style=flat-square)
 
 ## About
 
-A collection of league structures and schedule templates for Eastside Hockey Manager.
+A collection of league structures and schedule templates for Eastside Hockey Manager (EHM).
 
 ## Usage
 
 Simply download your chosen structure or schedule from the relevant folder above.
 
-The folders use the following file naming convention:
+The folders use the following naming convention:
 
 ```
 [total_teams] Teams - [teams_per_division] ([total_teams]) - [games_played] GP
@@ -21,7 +21,7 @@ The folders use the following file naming convention:
 
 Some examples:
 
-- National Hockey League 2023-23 season with four divisions (three of which have eight teams and one of which has seven teams) (31 teams in total) with a total of 82 games played in the regular season:
+- NHL 2023-23 season with four divisions (three of which have eight teams and one of which has seven teams) (31 teams in total) with a total of 82 games played in the regular season:
 ```
 NHL 2022-23 - 8_8_8_7 - 82 GP
 ```
@@ -47,7 +47,7 @@ The .ehm file is useful if you wish to import the full league structure (includi
 
 The spreadsheets are useful if you just want the schedule for use with an existing league structure. These can be imported into an EHM database using the EHM Editor by archibalduk.
 
-The spreadsheets use the following file naming convention:
+The spreadsheets use the following naming convention:
 
 ```
   regular_season_[type] <- Regular season schedule
