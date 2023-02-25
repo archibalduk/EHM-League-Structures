@@ -21,6 +21,8 @@ The folders and the schedule template spreadsheets use the following naming conv
 [league_name] [season] - [teams_per_division] ([total_teams]) - [games_played] GP
 ```
 
+Note that *[teams_per_division]* is omitted from the file/folder name where the league does not have any divisions.
+
 Some examples:
 
 - NHL 2023-23 season with four divisions (three of which have eight teams and one of which has seven teams) (31 teams in total) with a total of 82 games played in the regular season:
