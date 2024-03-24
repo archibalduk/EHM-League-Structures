@@ -27,12 +27,12 @@ Some examples:
 
 - NHL 2023-23 season with four divisions (three of which have eight teams and one of which has seven teams) (31 teams in total) with a total of 82 games played in the regular season:
 ```
-NHL 2022-23 - 8_8_8_7 - 82 GP
+NHL 2022-23 - 8_8_8_7 (31) - 82 GP
 ```
 
 - Generic 30 team league with five divisions of six teams (30 teams in total) with a total of 82 games played in the regular season:
 ```
-30 Teams - 6_6_6_6_6 - 82 GP
+30 Teams - 6_6_6_6_6 (30) - 82 GP
 ```
 
 - Generic 30 team league with no divisions (30 teams in total) with a total of 82 games played in the regular season:
